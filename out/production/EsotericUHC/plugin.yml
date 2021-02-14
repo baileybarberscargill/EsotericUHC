@@ -1,0 +1,33 @@
+name: EsotericUHC
+main: com.baileybarberscargill.esotericuhc.Main
+version: 1.0.6.10
+author: Bayfish
+description: Plugin for EsotericUHC
+api-version: 1.15
+commands:
+  goldenheads:
+    description: Enable or disable golden heads
+  absorption:
+    description: Enable or disable absorption
+  nether:
+    description: Enable or disable the Nether
+  deathlightning:
+    description: Enable or disable Death Lightning
+  permaday:
+    description: Enable or disable permanenet day
+  tabhearts:
+    description: Enable or disable hearts in tab
+  healthbelow:
+    description: Enable or disable health below players
+  horses:
+    description: Enable or disable horses
+  potion:
+    description: Enable or disable tier2, splash or regen potions
+  enderpearldamage:
+    description: Enable or disable enderpearl damage
+  episodes:
+    description: Configure episodes
+  episode:
+    description: Check current episode and time
+  features:
+    description: List the enabled and disabled features

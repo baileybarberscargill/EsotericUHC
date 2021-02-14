@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EsotericUHC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EsotericUHC_jar</output-path>
+    <root id="archive" name="EsotericUHC.jar">
+      <element id="module-output" name="EsotericUHC" />
+    </root>
+  </artifact>
+</component>
